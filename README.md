@@ -1,2 +1,4 @@
-# data_controller_interface
-A software made to facilitate the visualization and control of data and parameters and send alert emails
+# View and controll data
+View all your data records and set for this LOGs a GUI to better visualization. 
+
+Made with Python and PyQT5
