@@ -1,4 +1,11 @@
-# View and controll data
-View all your data records and set for this LOGs a GUI to better visualization. 
+# Data Controller Module with GUI
 
-Made with Python and PyQT5
+GUI made with PyQT5
+
+- Read data from .txt
+- Write data in .txt
+
+
+# Email notification
+
+  - Receive a notification via email and Telegram when some data get value out of parameters.
